@@ -1,1 +1,1 @@
-- [step-1](https://github.com/oleklamza/pio-game/tree/step-1): K`.
+- [step-1](https://github.com/Yareme/PAW_LAB/tree/Zajęcia-1---kalkulator): Zajęcia 1.
