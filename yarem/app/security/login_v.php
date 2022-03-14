@@ -13,14 +13,14 @@
     <form action="<?php print(_APP_ROOT); ?>/app/security/login.php" method="post" >
         <legend>Logowanie</legend>
         <div class="form-group row">
-            <label for="id_login" class="col-sm-6 col-form-label">login: </label>
-            <div class="col-sm-10">
+            <label for="id_login" class="col-sm-0 col-form-label">login: </label>
+            <div class="col-sm-1">
                 <input id="id_login" type="text" class="form-control" name="login" value="<?php out($form['login']); ?>" />
             </div>
         </div>
         <div class="form-group row">
-            <label for="id_pass" class="col-sm-6 col-form-label">Password</label>
-            <div class="col-sm-10">
+            <label for="id_pass" class="col-sm-0 col-form-label">Password</label>
+            <div class="col-sm-1">
                 <input id="id_pass" type="password" class="form-control" name="pass" />
             </div>
         </div>
